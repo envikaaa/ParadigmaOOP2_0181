@@ -11,6 +11,9 @@ public:
     }
 
     void display() {
-        cout << 
+        cout << "x = " << x << endl;
+        cout << "y = " << x << endl;
     }
-}
+};
+
+int main()
