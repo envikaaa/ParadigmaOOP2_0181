@@ -10,5 +10,7 @@ public:
         x = b;
     }
 
-    void display()
+    void display() {
+        cout << 
+    }
 }
