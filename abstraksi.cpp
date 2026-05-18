@@ -17,9 +17,9 @@ public:
 };
 
 int main(){
-AbstraksiKlas Ak;
-ak.setXY("Yogyakarta", "Kampus");
-ak.display();
+    AbstraksiKlas Ak;
+    ak.setXY("Yogyakarta", "Kampus");
+    ak.display();
 
 return 0;
 }
